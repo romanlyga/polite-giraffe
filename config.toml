@@ -1,0 +1,18 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Ticky Tacky Dark"
+theme = "ticky tacky dark"
+disableKinds = [ "taxonomy", "taxonomyTerm" ]
+enableEmoji = true
+themesDir = "themes"
+publishDir = "public"
+
+[params]
+favicon = "favicon.ico"
+description = "The demonstration page for the Hugo Ticky Tacky Dark theme."
+images = [ "img/header01.jpg", "img/header02.jpg" ]
+headername = "tickytackydark"
+
+[Author]
+name = "Karl Sickendick"
+email = "kc0bfv@gmail.com"
